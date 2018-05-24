@@ -1,5 +1,5 @@
 # Bitcoin and Cryptocurrency Technologies
-My assignments for BCT course.
+My assignments for BCT course. https://www.coursera.org/learn/cryptocurrency
 
 Links:
 1. Assignment 1: [Scrooge Coin](https://www.coursera.org/learn/cryptocurrency/programming/KOo3V/scrooge-coin)
